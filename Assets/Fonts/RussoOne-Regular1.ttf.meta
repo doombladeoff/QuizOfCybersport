@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 604672909d0e84745a072a6dd21df60f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Russo One
+  fontNames:
+  - Russo One
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 830d01f62d2b3e04da2840ac3a6499e1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
